@@ -4,7 +4,7 @@ First pass docker all-in-one image, intended for running integration tests again
 Also usable for normal development and system evaluation; not intended for production.
 
 ### Requirements:
- - java8 compiler, maven, make, wget, docker
+ - java8 compiler, maven, make, wget, docker, zip
 
 ### Quickstart:
  - in the root of the repository, run `./conf/docker-aio/prep_it.bash`
