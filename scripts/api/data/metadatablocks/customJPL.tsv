@@ -1,0 +1,13 @@
+#metadataBlock	name	dataverseAlias	displayName
+	jpl		JPL
+#datasetField	name	title	description	watermark	 fieldType	displayOrder	displayFormat	advancedSearchField	allowControlledVocabulary	allowmultiples	facetable	displayoncreate	required	parent	metadatablock_id
+	lineOrg	Line Organization	The part of JPL primarily responsible for overseeing this work	e.g. 4000	text	1	 	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE		jpl
+#controlledVocabulary	DatasetField	Value	identifier	displayOrder
+	lineOrg	Office of the Director	1000	0
+	lineOrg	Business Operations	2000	1
+	lineOrg	Engineering and Science	3000	2
+	lineOrg	Planetary Science Directorate	4000	3
+	lineOrg	Office of Safety and Mission Success	5000	4
+	lineOrg	Astronomy and Physics	6000	5
+	lineorg	Earth Science and Technology	8000	6
+	lineOrg	Interplanetary Network	9000	7
