@@ -1,7 +1,9 @@
 #metadataBlock	name	dataverseAlias	displayName
 	jpl		JPL
 #datasetField	name	title	description	watermark	 fieldType	displayOrder	displayFormat	advancedSearchField	allowControlledVocabulary	allowmultiples	facetable	displayoncreate	required	parent	metadatablock_id
-	lineOrg	Line Organization	The part of JPL primarily responsible for overseeing this work	e.g. 4000	text	1	 	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE		jpl
+	lineOrg	Line Organization	The part(s) of JPL responsible for overseeing this work	e.g. 4000	text	1	 	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE		jpl
+	taskNum	Task Number	The project & task number(s) funding this work	e.g. A55555 01.01	text	1	 	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE		jpl
+	startDate	Start date	When the work begun	e.g. 2000-01-29	date	1	 	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE		jpl
 #controlledVocabulary	DatasetField	Value	identifier	displayOrder
 	lineOrg	Office of the Director	1000	0
 	lineOrg	Business Operations	2000	1
