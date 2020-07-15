@@ -1,0 +1,13 @@
+#metadataBlock	dataverseAlias	displayName	name
+0		ASCII Short String Collapsed	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed
+#datasetField	advancedSearchField	allowControlledVocabulary	allowmultiples	description	displayFormat	displayOrder	displayoncreate	facetable	fieldType	metadatablock_id	name	parent	required	title
+0	TRUE	TRUE	FALSE	The character_constraint attribute limits the characters allowed.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed.oais.character_constraint		FALSE	character_constraint
+1	TRUE	TRUE	FALSE	The maximum_characters attribute provides the upper, inclusive bound on the number of characters.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed.oais.maximum_characters		FALSE	maximum_characters
+2	TRUE	TRUE	FALSE	The minimum_characters attribute provides the lower, inclusive bound on the number of characters.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed.oais.minimum_characters		FALSE	minimum_characters
+3	TRUE	TRUE	FALSE	The xml schema base type attribute provides the data type needed for the XML schema implementation.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed.oais.xml_schema_base_type		FALSE	xml_schema_base_type
+4	TRUE	TRUE	FALSE	The character_encoding attribute identifies the standard that maps a set of allowed characters to their machine readable code.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.Character_Data_Type.oais.character_encoding		FALSE	character_encoding
+5	TRUE	TRUE	FALSE	The formation_rule attribute provides a 'user friendly' instruction for forming values.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.Character_Data_Type.oais.formation_rule		FALSE	formation_rule
+6	TRUE	TRUE	FALSE	The maximum_value attribute provides the upper, inclusive bound on the value.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.Character_Data_Type.oais.maximum_value		FALSE	maximum_value
+7	TRUE	TRUE	FALSE	The minimum_value attribute provides the lower inclusive bound on the value.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.Character_Data_Type.oais.minimum_value		FALSE	minimum_value
+8	TRUE	TRUE	FALSE	The pattern attribute provides a symbolic instruction for forming values.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.Character_Data_Type.oais.pattern		FALSE	pattern
+#controlledVocabulary

@@ -1,0 +1,6 @@
+#metadataBlock	dataverseAlias	displayName	name
+0		Artifact Type Information	0001_NASA_PDS_1.oais.Artifact_Type_Information
+#datasetField	advancedSearchField	allowControlledVocabulary	allowmultiples	description	displayFormat	displayOrder	displayoncreate	facetable	fieldType	metadatablock_id	name	parent	required	title
+0	TRUE	TRUE	FALSE	The artifact_type_name attribute provides a term to be used for the value of artifact type.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Artifact_Type_Information	0001_NASA_PDS_1.oais.Artifact_Type_Information.oais.artifact_type_name		FALSE	artifact_type_name
+1	TRUE	TRUE	FALSE	The description attribute provides a statement, picture in words, or account that describes or is otherwise relevant to the object.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Artifact_Type_Information	0001_NASA_PDS_1.oais.Artifact_Type_Information.oais.description		FALSE	description
+#controlledVocabulary

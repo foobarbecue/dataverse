@@ -1,0 +1,8 @@
+#metadataBlock	dataverseAlias	displayName	name
+0		Identification Information	0001_NASA_PDS_1.oais.Identification_Information
+#datasetField	advancedSearchField	allowControlledVocabulary	allowmultiples	description	displayFormat	displayOrder	displayoncreate	facetable	fieldType	metadatablock_id	name	parent	required	title
+0	TRUE	TRUE	FALSE	The logical_identifer attribute identifies the set of all versions of a product; it is a product identifier without a version.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Identification_Information	0001_NASA_PDS_1.oais.Identification_Information.oais.logical_identifier		FALSE	logical_identifier
+1	TRUE	TRUE	FALSE	The version_identifier attribute provides the version of the product, expressed in the PDS [m.n] notation.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Identification_Information	0001_NASA_PDS_1.oais.Identification_Information.oais.version_identifier		FALSE	version_identifier
+2	TRUE	TRUE	FALSE	The title attribute provides a short, descriptive text string suitable use as a title or brief description in display or listing of products.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Identification_Information	0001_NASA_PDS_1.oais.Identification_Information.oais.title		FALSE	title
+3	TRUE	TRUE	FALSE	The description attribute provides a statement, picture in words, or account that describes or is otherwise relevant to the object.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Identification_Information	0001_NASA_PDS_1.oais.Identification_Information.oais.description		FALSE	description
+#controlledVocabulary

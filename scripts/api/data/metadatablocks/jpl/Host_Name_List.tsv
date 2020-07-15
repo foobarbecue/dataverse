@@ -1,0 +1,6 @@
+#metadataBlock	dataverseAlias	displayName	name
+0		Host Name List	0001_NASA_PDS_1.eimtldhost.Host_Name_List
+#datasetField	advancedSearchField	allowControlledVocabulary	allowmultiples	description	displayFormat	displayOrder	displayoncreate	facetable	fieldType	metadatablock_id	name	parent	required	title
+0	TRUE	TRUE	FALSE	 The type attribute provides a character string which uniquely identifies the object. 			TRUE	TRUE	text	0001_NASA_PDS_1.eimtldhost.Host_Name_List	0001_NASA_PDS_1.eimtldhost.Host_Name_List.eimtldhost.name		FALSE	name
+1	TRUE	TRUE	FALSE	The link attribute provides a link, e.g., a URI, to a landing page with additional information for this entry.			TRUE	TRUE	text	0001_NASA_PDS_1.eimtldhost.Host_Name_List	0001_NASA_PDS_1.eimtldhost.Host_Name_List.eimtldhost.link		FALSE	link
+#controlledVocabulary

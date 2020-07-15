@@ -1,0 +1,5 @@
+#metadataBlock	dataverseAlias	displayName	name
+0		Digital Object Handle	0001_NASA_PDS_1.oais.Digital_Object_Handle
+#datasetField	advancedSearchField	allowControlledVocabulary	allowmultiples	description	displayFormat	displayOrder	displayoncreate	facetable	fieldType	metadatablock_id	name	parent	required	title
+0	TRUE	TRUE	FALSE	The file_specification_name attribute provides the file_name prepended by the directory_path to the file.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Digital_Object_Handle	0001_NASA_PDS_1.oais.Digital_Object_Handle.oais.file_specification_name		FALSE	file_specification_name
+#controlledVocabulary
