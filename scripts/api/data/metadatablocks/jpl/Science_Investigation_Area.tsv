@@ -1,7 +1,7 @@
 #metadataBlock	dataverseAlias	displayName	name											
 0		Science Investigation Area	0001_NASA_PDS_1.oais.Science_Investigation_Area											
-#datasetField	advancedSearchField	allowControlledVocabulary	allowmultiples	description	displayFormat	displayOrder	displayoncreate	facetable	fieldType	metadatablock_id	name	parent	required	title
-0	TRUE	TRUE	FALSE	The start_date_time attribute provides the date and time at the beginning of a time interval of interest.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Science_Investigation_Area	0001_NASA_PDS_1.oais.Science_Investigation_Area.oais.start_date_time		FALSE	start_date_time
-1	TRUE	TRUE	FALSE	The stop_date_time attribute provides the date and time at the end of a time interval of interest.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Science_Investigation_Area	0001_NASA_PDS_1.oais.Science_Investigation_Area.oais.stop_date_time		FALSE	stop_date_time
+#datasetField	name	title	description	fieldType	displayOrder	displayFormat	advancedSearchField	allowControlledVocabulary	allowmultiples	facetable	displayoncreate	required	parent	metadatablock_id
+0	0001_NASA_PDS_1.oais.Science_Investigation_Area.oais.start_date_time	start_date_time	The start_date_time attribute provides the date and time at the beginning of a time interval of interest.	text			TRUE	TRUE	FALSE	TRUE	TRUE	FALSE		0001_NASA_PDS_1.oais.Science_Investigation_Area
+1	0001_NASA_PDS_1.oais.Science_Investigation_Area.oais.stop_date_time	stop_date_time	The stop_date_time attribute provides the date and time at the end of a time interval of interest.	text			TRUE	TRUE	FALSE	TRUE	TRUE	FALSE		0001_NASA_PDS_1.oais.Science_Investigation_Area
 #controlledVocabulary	0	1	2	3	4	5	6	7	8	9	10	11	12	13
 0														
