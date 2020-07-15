@@ -1,5 +1,5 @@
-#metadataBlock	dataverseAlias	displayName	name
-0		ASCII Short String Collapsed	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed
+#metadataBlock	dataverseAlias	displayName	name											
+0		ASCII Short String Collapsed	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed											
 #datasetField	advancedSearchField	allowControlledVocabulary	allowmultiples	description	displayFormat	displayOrder	displayoncreate	facetable	fieldType	metadatablock_id	name	parent	required	title
 0	TRUE	TRUE	FALSE	The character_constraint attribute limits the characters allowed.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed.oais.character_constraint		FALSE	character_constraint
 1	TRUE	TRUE	FALSE	The maximum_characters attribute provides the upper, inclusive bound on the number of characters.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed.oais.maximum_characters		FALSE	maximum_characters
@@ -10,4 +10,5 @@
 6	TRUE	TRUE	FALSE	The maximum_value attribute provides the upper, inclusive bound on the value.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.Character_Data_Type.oais.maximum_value		FALSE	maximum_value
 7	TRUE	TRUE	FALSE	The minimum_value attribute provides the lower inclusive bound on the value.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.Character_Data_Type.oais.minimum_value		FALSE	minimum_value
 8	TRUE	TRUE	FALSE	The pattern attribute provides a symbolic instruction for forming values.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.ASCII_Short_String_Collapsed	0001_NASA_PDS_1.oais.Character_Data_Type.oais.pattern		FALSE	pattern
-#controlledVocabulary
+#controlledVocabulary	0	1	2	3	4	5	6	7	8	9	10	11	12	13
+0														

@@ -1,5 +1,5 @@
-#metadataBlock	dataverseAlias	displayName	name
-0		JPL Core Metadata	0001_NASA_PDS_1.eimtldjplcoremetadata.JPL_Core_Metadata
+#metadataBlock	dataverseAlias	displayName	name											
+0		JPL Core Metadata	0001_NASA_PDS_1.eimtldjplcoremetadata.JPL_Core_Metadata											
 #datasetField	advancedSearchField	allowControlledVocabulary	allowmultiples	description	displayFormat	displayOrder	displayoncreate	facetable	fieldType	metadatablock_id	name	parent	required	title
 0	TRUE	TRUE	FALSE	An entity primarily responsible for making the resource. Facilitates discovery (search); allows content to be associated with JPLer.			TRUE	TRUE	text	0001_NASA_PDS_1.eimtldjplcoremetadata.JPL_Core_Metadata	0001_NASA_PDS_1.eimtldjplcoremetadata.JPL_Core_Metadata.eimtldjplcoremetadata.creator		FALSE	creator
 1	TRUE	TRUE	FALSE	Date of creation of the resource. Vital for effective ERM and disposition.			TRUE	TRUE	text	0001_NASA_PDS_1.eimtldjplcoremetadata.JPL_Core_Metadata	0001_NASA_PDS_1.eimtldjplcoremetadata.JPL_Core_Metadata.eimtldjplcoremetadata.created		FALSE	created
@@ -9,4 +9,5 @@
 5	TRUE	TRUE	FALSE	The nature or genre of the resource. Facilitates discovery (search); vital for effective ERM and disposition; facilitates “dashboard” use and reuse of content.			TRUE	TRUE	text	0001_NASA_PDS_1.eimtldjplcoremetadata.JPL_Core_Metadata	0001_NASA_PDS_1.eimtldjplcoremetadata.JPL_Core_Metadata.eimtldjplcoremetadata.type		FALSE	type
 6	TRUE	TRUE	FALSE	Information about rights held in and over the resource. Facilitates “dashboard” use and reuse of content.			TRUE	TRUE	text	0001_NASA_PDS_1.eimtldjplcoremetadata.JPL_Core_Metadata	0001_NASA_PDS_1.eimtldjplcoremetadata.JPL_Core_Metadata.eimtldjplcoremetadata.rights		FALSE	rights
 7	TRUE	TRUE	FALSE	The topic of the resource per enterprise keywords.			TRUE	TRUE	text	0001_NASA_PDS_1.eimtldjplcoremetadata.JPL_Core_Metadata	0001_NASA_PDS_1.eimtldjplcoremetadata.JPL_Core_Metadata.eimtldjplcoremetadata.keywords		FALSE	keywords
-#controlledVocabulary
+#controlledVocabulary	0	1	2	3	4	5	6	7	8	9	10	11	12	13
+0														

@@ -1,6 +1,7 @@
-#metadataBlock	dataverseAlias	displayName	name
-0		Artifact External Reference	0001_NASA_PDS_1.oais.Artifact_External_Reference
+#metadataBlock	dataverseAlias	displayName	name											
+0		Artifact External Reference	0001_NASA_PDS_1.oais.Artifact_External_Reference											
 #datasetField	advancedSearchField	allowControlledVocabulary	allowmultiples	description	displayFormat	displayOrder	displayoncreate	facetable	fieldType	metadatablock_id	name	parent	required	title
 0	TRUE	TRUE	FALSE	The reference_type attribute provides the name of the association.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Artifact_External_Reference	0001_NASA_PDS_1.oais.Artifact_External_Reference.oais.reference_type		FALSE	reference_type
 1	TRUE	TRUE	FALSE	The reference_text attribute provides a complete bibliographic citation for a published work.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Artifact_External_Reference	0001_NASA_PDS_1.oais.Artifact_External_Reference.oais.reference_text		FALSE	reference_text
-#controlledVocabulary
+#controlledVocabulary	0	1	2	3	4	5	6	7	8	9	10	11	12	13
+0														

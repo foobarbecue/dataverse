@@ -1,7 +1,8 @@
-#metadataBlock	dataverseAlias	displayName	name
-0		Checksum Type List	0001_NASA_PDS_1.eimtldchksum.Checksum_Type_List
+#metadataBlock	dataverseAlias	displayName	name											
+0		Checksum Type List	0001_NASA_PDS_1.eimtldchksum.Checksum_Type_List											
 #datasetField	advancedSearchField	allowControlledVocabulary	allowmultiples	description	displayFormat	displayOrder	displayoncreate	facetable	fieldType	metadatablock_id	name	parent	required	title
 0	TRUE	TRUE	FALSE	The type attribute provides ...			TRUE	TRUE	text	0001_NASA_PDS_1.eimtldchksum.Checksum_Type_List	0001_NASA_PDS_1.eimtldchksum.Checksum_Type_List.eimtldchksum.type		FALSE	type
 1	TRUE	TRUE	FALSE	The value attribute provides the value produced by the checksum algorithm.			TRUE	TRUE	text	0001_NASA_PDS_1.eimtldchksum.Checksum_Type_List	0001_NASA_PDS_1.eimtldchksum.Checksum_Type_List.eimtldchksum.value		FALSE	value
 2	TRUE	TRUE	FALSE	The link attribute provides a link, e.g., a URI, to a landing page with additional information for this entry.			TRUE	TRUE	text	0001_NASA_PDS_1.eimtldchksum.Checksum_Type_List	0001_NASA_PDS_1.eimtldchksum.Checksum_Type_List.eimtldchksum.link		FALSE	link
-#controlledVocabulary
+#controlledVocabulary	0	1	2	3	4	5	6	7	8	9	10	11	12	13
+0														

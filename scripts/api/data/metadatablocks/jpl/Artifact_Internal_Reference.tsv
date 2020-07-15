@@ -1,7 +1,8 @@
-#metadataBlock	dataverseAlias	displayName	name
-0		Artifact Internal Reference	0001_NASA_PDS_1.oais.Artifact_Internal_Reference
+#metadataBlock	dataverseAlias	displayName	name											
+0		Artifact Internal Reference	0001_NASA_PDS_1.oais.Artifact_Internal_Reference											
 #datasetField	advancedSearchField	allowControlledVocabulary	allowmultiples	description	displayFormat	displayOrder	displayoncreate	facetable	fieldType	metadatablock_id	name	parent	required	title
 0	TRUE	TRUE	FALSE	The logical_identifer attribute identifies the set of all versions of a product; it is a product identifier without a version.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Artifact_Internal_Reference	0001_NASA_PDS_1.oais.Artifact_Internal_Reference.oais.logical_identifier		FALSE	logical_identifier
 1	TRUE	TRUE	FALSE	The version_identifier attribute provides the version of the product, expressed in the PDS [m.n] notation.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Artifact_Internal_Reference	0001_NASA_PDS_1.oais.Artifact_Internal_Reference.oais.version_identifier		FALSE	version_identifier
 2	TRUE	TRUE	FALSE	The reference_type attribute provides the name of the association.			TRUE	TRUE	text	0001_NASA_PDS_1.oais.Artifact_Internal_Reference	0001_NASA_PDS_1.oais.Artifact_Internal_Reference.oais.reference_type		FALSE	reference_type
-#controlledVocabulary
+#controlledVocabulary	0	1	2	3	4	5	6	7	8	9	10	11	12	13
+0														
